@@ -1,4 +1,4 @@
-# IndiceBoursier
+# indice boursier qui mesure la performance de 500 grandes entreprises cotées en bourse aux États-Unis.
 Analyse des données de S&amp;P500
 
 Le S&P est un indice boursier qui mesure la performance de 500 
